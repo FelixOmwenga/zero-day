@@ -1,1 +1,1 @@
-# This project basically handles Introductory to Git
+# This project basically handles Introductory concepts to Git
